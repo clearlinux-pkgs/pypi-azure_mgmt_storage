@@ -4,7 +4,7 @@
 #
 Name     : pypi-azure_mgmt_storage
 Version  : 20.0.0
-Release  : 4
+Release  : 5
 URL      : https://files.pythonhosted.org/packages/5b/d4/56060366fead4e2fcceb160447c5f5022c9c0f8a929e7e6425af6fe2ea60/azure-mgmt-storage-20.0.0.zip
 Source0  : https://files.pythonhosted.org/packages/5b/d4/56060366fead4e2fcceb160447c5f5022c9c0f8a929e7e6425af6fe2ea60/azure-mgmt-storage-20.0.0.zip
 Summary  : Microsoft Azure Storage Management Client Library for Python
@@ -61,7 +61,7 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1649258540
+export SOURCE_DATE_EPOCH=1649716614
 export GCC_IGNORE_WERROR=1
 export AR=gcc-ar
 export RANLIB=gcc-ranlib

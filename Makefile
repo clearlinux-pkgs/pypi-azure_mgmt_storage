@@ -1,5 +1,5 @@
 PKG_NAME := pypi-azure_mgmt_storage
-URL = https://files.pythonhosted.org/packages/5b/d4/56060366fead4e2fcceb160447c5f5022c9c0f8a929e7e6425af6fe2ea60/azure-mgmt-storage-20.0.0.zip
+URL = https://files.pythonhosted.org/packages/0f/28/9b6b046600a39b3947feec29a827cf506547fa050c3bfe93be08a288e63a/azure-mgmt-storage-20.1.0.zip
 ARCHIVES = 
 
 include ../common/Makefile.common

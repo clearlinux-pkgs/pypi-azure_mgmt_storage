@@ -7,7 +7,7 @@
 #
 Name     : pypi-azure_mgmt_storage
 Version  : 21.2.1
-Release  : 24
+Release  : 25
 URL      : https://files.pythonhosted.org/packages/b9/9b/0542c8081fe6ff808b04986892861e88775c3900c391657f796d69643f13/azure-mgmt-storage-21.2.1.tar.gz
 Source0  : https://files.pythonhosted.org/packages/b9/9b/0542c8081fe6ff808b04986892861e88775c3900c391657f796d69643f13/azure-mgmt-storage-21.2.1.tar.gz
 Summary  : Microsoft Azure Storage Management Client Library for Python
